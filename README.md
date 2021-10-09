@@ -4,7 +4,7 @@
 
 ## links
 - Github repo: https://github.com/Raj-Hunjan/cpnt201-a3
-- Githup page: 
+- Githup page: https://raj-hunjan.github.io/cpnt201-a3/
 
 ## Code review
 - Mostly just had trouble understanding the assignment but Jessica and Fesal really helped with that.
